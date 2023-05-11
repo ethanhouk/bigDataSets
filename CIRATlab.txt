@@ -1,7 +1,3 @@
-501 East 38" Street
-ae cS Erie, PA 16546
-\ f 814-824-2131
-Uy) mercyhurst.edu UNIVERSITY ————
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
 “Mercyhurst CIRAT Program” Acceptable Use Policy
 1. Overview
@@ -37,7 +33,7 @@ laws and regulation. Exceptions to this policy are documented in section 5.2
 This policy applies to employees, contractors, consultants, temporaries, and other workers at
 “Mercyhurst CIRAT Program”, including ali personnel affiliated with third parties. This
 policy applies to all equipment that is owned or leased by “Mercyhurst CIRAT Program”.
- ———— UNI V ERSIT Y —————— mercyhurst.edu
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
 4. Policy
 4.1 General Use and Ownership
@@ -79,7 +75,7 @@ automatic activation feature set to 10 minutes or less. You must lock the screen
 when the device is unattended.
 Postings by employees from a “Mercyhurst CIRAT Program” email address to
 newsgroups should contain a disclaimer stating that the opinions expressed are strictly
-——_—— J NIVERSITY ———-— mercyhurst.edu
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  their own and not necessarily those of “Mercyhurst CIRAT Program”, unless posting
 is during business duties.
@@ -116,20 +112,7 @@ management should be consulted prior to export of any material that is in questi
 Trojan horses, e-mail bombs, etc.).
 6. Revealing your account password to others or allowing use of your account by others.
 This includes family and other household members when work is being done at home.
-501 East 38" Street
-Gd ca Erie, PA 16546
-\ / 814-824-2131
-Uy) mercyhurst.edu
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-4.3.2
-UNIVERSITY ————
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
 Using a “Mercyhurst CIRAT Program” computing asset to actively engage in
 procuring or transmitting material that is in violation of sexual harassment or hostile
@@ -163,8 +146,7 @@ When using company resources to access and use the Internet, users must realize 
 the company. Whenever employees state an affiliation to the company, they must also clearly
 indicate that "the opinions expressed are my own and not necessarily those of the company".
 Questions may be addressed to the Information Technology Department
- 4.3.3
-—— [JNIVERSITY ————— mercyhurst.edu
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
 Sending unsolicited email messages, including the sending of "junk mail" or other
 advertising material to individuals who did not specifically request such material (email
@@ -196,7 +178,7 @@ An employee found to have violated this policy may be subject to disciplinary ac
 including termination of employment.
 6. Related Standards, Policies and Processes
 Data Classification Policy
-Ee | N lV k R S | Ty ——_—— mercyhurst.edu
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  e Data Protection Standard
 e Social Media Policy
@@ -226,7 +208,7 @@ Signature Date
 Randy Gindy
 Security Administrator & System Architect
 Mercyhurst University IT Department
-———— N lV k R S | T y ——_———_ mercyhurst.edu
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  Mercyhurst CIRAT Lab Security Policy
 1. Overview
@@ -266,10 +248,7 @@ anti-virus software and the virus pattern files must be kept up to date. Virus-i
 computers must be removed from the network until they are verified as virus-free. Lab
 Admins/Lab Managers are responsible for creating procedures that ensure anti-virus
 software is run at regular intervals, and computers are verified as virus-free.
-501 East 38" Street
-Erie, PA 16546
-814-824-2131
-mercyhurst.edu ——— UNIVERSITY ————
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  4.1.8 Any activities with the intention to create and/or distribute malicious programs into
 “Mercyhurst CIRAT Program” 's networks (e.g., viruses, worms, Trojan horses, e-mail
@@ -308,7 +287,7 @@ compromise production network services or put lab confidential information at ri
 4.2.9 Information Technology reserves the right to audit all lab-related data and administration
 processes at any time, including but not limited to, inbound and outbound packets,
 firewalls and network peripherals.
-<a |} N | V EF R S | yY —_—-—— mercyhurst.edu
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  4.2.10 In labs where non-” Mercyhurst CIRAT Program” personnel have physical access (e.g.,
 training labs), direct connectivity to the corporate production network is not allowed.
@@ -377,10 +356,7 @@ e Configuration changes for production servers must follow the appropriate chang
 management procedures
 4.1.2 For security, compliance, and maintenance purposes, authorized personnel may monitor
 and audit equipment, systems, processes, and network traffic per the Audit Policy.
-501 East 38% Street
-Erie, PA 16546
-814-824-2131
-mercyhurst.edu ———— IJNIVERSITY ————
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  4.2 Configuration Requirements
 4.2.1 Operating System configuration should be in accordance with approved Information
@@ -418,7 +394,7 @@ not limited to, periodic walk-thrus, video monitoring, business tool reports, in
 audits, and feedback to the policy owner.
 5.2 Exceptions
 Any exception to the policy must be approved by the Infosec team in advance.
-———— UNIVERSITY ————— mercyhurst.edu
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  5.3 Non-Compliance
 An employee found to have violated this policy may be subject to disciplinary action, up to and
@@ -426,22 +402,8 @@ including termination of employment.
 6 Related Standards, Policies and Processes
 e Audit Policy
 
-
 7 Revision History
 
-
-
-Date of Change Responsible Summary of Change
-February 3 2022 | Randy Gindy Modified a free existing policy for use in the
-(Mercyhurst CIRAT Program spaces.
-University
-Information
-Technology)
-Signature Date
-Randy Gindy
-Security Administrator & System Architect
-Mercyhurst University IT Department
-———— UNIVE RST Y —————- mercyhurst.edu
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  Mercyhurst CIRAT Lab Data Transfer Policy
 1. Overview
@@ -472,22 +434,13 @@ Date of Change Responsible Summary of Change
 Ferbuary 3 2022 | Randy Gindy Modified free existing Lab security policy for use
 (Mercyhurst in CIRAT Program spaces.
 University
-Information
-
-Technology)
-501 East 38" Street
-Erie, PA 16546
-814-824-2131
-mercyhurst.edu ——— UNIVERSITY ————
+Information Technology)
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
 Signature BS Date _ 2/3/2022
 Security Administrator & System Architect
 Mercyhurst University {T Department
 
-501 East 38" Street
-Erie, PA 16546
-814-824-2131
-mercyhurst.edu ———— UNIVERSITY ————
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  Mercyhurst University CIRAT Program Password Protection Policy
 1. Overview
@@ -531,7 +484,7 @@ passwords are to be treated as sensitive, Confidential <Company Name> informatio
 501 East 38 Street
 Erie, PA 16546
 814-824-2131
-mercyhurst.edu ———— UNIVERSITY ————
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
 Corporate Information Security recognizes that legacy applications do not support proxy
 systems in place. Please refer to the technical reference for additional details.
@@ -554,13 +507,9 @@ Any exception to the policy must be approved by the Infosec Team in advance.
 5.3 Non-Compliance
 An employee found to have violated this policy may be subject to disciplinary action, up to and
 including termination of employment.
-——— I N IV E R § |] Y _————_ mercyhurst.edu
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
- 
 
-
-
-6
 7 Revision History
 Date of Change Responsible Summary of Change
 February 3 2022 | Randy Gindy Modified free existing password protection policy
@@ -572,10 +521,7 @@ Signature Date
 Randy Gindy
 Security Administrator & System Architect
 Mercyhurst University IT Department
-501 East 38" Street
-Erie, PA 16546
-814-824-2131
-mercyhurst.edu ———— UNIVERSITY ————-
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  Wireless Communication Policy
 1. Overview
@@ -662,7 +608,7 @@ Email is a “Mercyhurst CIRAT Program” business record if there exists a legi
 business reason to preserve the information contained in the email.
 4.5 Email that is identified as a “Mercyhurst CIRAT Program” business record shall be retained
 according to “Mercyhurst CIRAT Program” Record Retention Schedule.
-——_— JJ N [V k R S | ———— mercyhurst.edu
+
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  4.6 The “Mercyhurst CIRAT Program” email system shall not to be used for the creation or
 distribution of any disruptive or offensive messages, including offensive comments about
@@ -699,7 +645,6 @@ University Information Technology team in advance.
 5.3 Non-Compliance
 An employee found to have violated this policy may be subject to disciplinary action, up to and
 including termination of employment.
-——— J N lV f R SIT ¥ ——__-— mercyhurst.edu
 RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
  
 
