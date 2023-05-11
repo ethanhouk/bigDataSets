@@ -1,0 +1,719 @@
+501 East 38" Street
+ae cS Erie, PA 16546
+\ f 814-824-2131
+Uy) mercyhurst.edu UNIVERSITY ————
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+“Mercyhurst CIRAT Program” Acceptable Use Policy
+1. Overview
+Information Technology’s intentions for publishing an Acceptable Use Policy are not to impose
+restrictions that are contrary to “Mercyhurst CIRAT Program” established culture of
+openness, trust and integrity. Information Technology is committed to protecting “Mercyhurst
+CIRAT Program” employees, partners and the company from illegal or damaging actions by
+individuals, either knowingly or unknowingly.
+Internet/Intranet/Extranet-related systems, including but not limited to computer equipment,
+software, operating systems, storage media, network accounts providing electronic mail, WWW
+browsing, and FTP, are the property of “Mercyhurst CIRAT Program”. These systems are to
+be used for business purposes in serving the interests of the company, and of our clients and
+customers in the course of normal operations. Please review Human Resources policies for
+further details.
+Effective security is a team effort involving the participation and support of every “Mercyhurst
+CIRAT Program” employee and affiliate who deals with information and/or information
+systems. It is the responsibility of every computer user to know these guidelines, and to conduct
+their activities accordingly.
+2. Purpose
+The purpose of this policy is to outline the acceptable use of computer equipment at
+“Mercyhurst CIRAT Program”. These rules are in place to protect the employee and
+“Mercyhurst CIRAT Program”. Inappropriate use exposes “Mercyhurst CIRAT Program”
+to risks including virus attacks, compromise of network systems and services, and legal issues.
+3. Scope
+This policy applies to the use of information, electronic and computing devices, and network
+resources to conduct “Mercyhurst CIRAT Program” business or interact with internal
+networks and business systems, whether owned or leased by “Mercyhurst CIRAT Program”,
+the employee, or a third party. All employees, contractors, consultants, temporary, and other
+workers at “Mercyhurst CIRAT Program” and its subsidiaries are responsible for exercising
+good judgment regarding appropriate use of information, electronic devices, and network
+resources in accordance with “Mercyhurst CIRAT Program” policies and standards, and local
+laws and regulation. Exceptions to this policy are documented in section 5.2
+This policy applies to employees, contractors, consultants, temporaries, and other workers at
+“Mercyhurst CIRAT Program”, including ali personnel affiliated with third parties. This
+policy applies to all equipment that is owned or leased by “Mercyhurst CIRAT Program”.
+ ———— UNI V ERSIT Y —————— mercyhurst.edu
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+4. Policy
+4.1 General Use and Ownership
+4.1.1
+4.1.2
+4.1.3
+4.1.6
+“Mercyhurst CIRAT Program” proprietary information stored on electronic and
+computing devices whether owned or leased by “Mercyhurst CIRAT Program”, the
+employee or a third party, remains the sole property of “Mercyhurst CIRAT Program”.
+You must ensure through legal or technical means that proprietary information is
+protected in accordance with the Data Protection Standard.
+You have a responsibility to promptly report the theft, loss or unauthorized disclosure of
+“Mercyhurst CIRAT Program” proprietary information.
+You may access, use or share “Mercyhurst CIRAT Program” proprietary information
+only to the extent it is authorized and necessary to fulfill your assigned job duties.
+Employees are responsible for exercising good judgment regarding the reasonableness of
+personal use. Individual departments are responsible for creating guidelines concerning
+personal use of Internet/Intranet/Extranet systems. In the absence of such policies,
+employees should be guided by departmental policies on personal use, and if there is any
+uncertainty, employees should consult their supervisor or manager.
+For security and network maintenance purposes, authorized individuals within
+“Mercyhurst CIRAT Program” may monitor equipment, systems and network traffic
+at any time, per Infosec's Audit Policy.
+“Mercyhurst CIRAT Program” reserves the right to audit networks and systems on a
+periodic basis to ensure compliance with this policy.
+4.2 Security and Proprietary Information
+4.2.1
+4.2.2
+4.2.3
+4.2.4
+All mobile and computing devices that connect to the internal network must comply with
+the Minimum Access Policy.
+System level and user level passwords must comply with the Password Policy. Providing
+access to another individual, either deliberately or through failure to secure its access, is
+prohibited.
+All computing devices must be secured with a password-protected screensaver with the
+automatic activation feature set to 10 minutes or less. You must lock the screen or log off
+when the device is unattended.
+Postings by employees from a “Mercyhurst CIRAT Program” email address to
+newsgroups should contain a disclaimer stating that the opinions expressed are strictly
+——_—— J NIVERSITY ———-— mercyhurst.edu
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ their own and not necessarily those of “Mercyhurst CIRAT Program”, unless posting
+is during business duties.
+4.2.5 Employees must use extreme caution when opening e-mail attachments received from
+unknown senders, which may contain malware.
+4.3 Unacceptable Use
+The following activities are, in general, prohibited. Employees may be exempted from these
+restrictions during the course of their legitimate job responsibilities (e.g., systems administration
+staff may have a need to disable the network access of a host if that host is disrupting production
+services).
+Under no circumstances is an employee of “Mereyhurst CIRAT Program” authorized to
+engage in any activity that is illegal under local, state, federal or international law while utilizing
+“Mercyhurst CIRAT Program”-owned resources.
+The lists below are by no means exhaustive, but attempt to provide a framework for activities
+which fall into the category of unacceptable use.
+4.3.1 System and Network Activities
+The following activities are strictly prohibited, with no exceptions:
+1. Violations of the rights of any person or company protected by copyright, trade secret,
+patent or other intellectual property, or similar laws or regulations, including, but not
+limited to, the installation or distribution of "pirated" or other software products that are
+not appropriately licensed for use by “Mercyhurst CIRAT Program”.
+2. Unauthorized copying of copyrighted material including, but not limited to, digitization
+and distribution of photographs from magazines, books or other copyrighted sources,
+copyrighted music, and the installation of any copyrighted software for which
+“Mercyhurst CIRAT Program” or the end user does not have an active license is
+strictly prohibited.
+3. Accessing data, a server or an account for any purpose other than conducting
+“Mercyhurst CIRAT Program” business, even if you have authorized access, is
+prohibited.
+4. Exporting software, technical information, encryption software or technology, in
+violation of international or regional export control laws, is illegal. The appropriate
+management should be consulted prior to export of any material that is in question.
+5. Introduction of malicious programs into the network or server (e.g., viruses, worms,
+Trojan horses, e-mail bombs, etc.).
+6. Revealing your account password to others or allowing use of your account by others.
+This includes family and other household members when work is being done at home.
+501 East 38" Street
+Gd ca Erie, PA 16546
+\ / 814-824-2131
+Uy) mercyhurst.edu
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+4.3.2
+UNIVERSITY ————
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+Using a “Mercyhurst CIRAT Program” computing asset to actively engage in
+procuring or transmitting material that is in violation of sexual harassment or hostile
+workplace laws in the user's local jurisdiction.
+Making fraudulent offers of products, items, or services originating from any
+“Mercyhurst CIRAT Program” account.
+Making statements about warranty, expressly or implied, unless it is a part of normal job
+duties.
+Effecting security breaches or disruptions of network communication. Security breaches
+include, but are not limited to, accessing data of which the employee is not an intended
+recipient or logging into a server or account that the employee is not expressly authorized
+to access, unless these duties are within the scope of regular duties. For purposes of this
+section, "disruption" includes, but is not limited to, network sniffing, pinged floods,
+packet spoofing, denial of service, and forged routing information for malicious purposes.
+Port scanning or security scanning is expressly prohibited unless prior notification to
+Infosec is made.
+Executing any form of network monitoring which will intercept data not intended for the
+employee's host, unless this activity is a part of the employee's normal job/duty.
+Circumventing user authentication or security of any host, network or account.
+Introducing honeypots, honeynets, or similar technology on the “Mercyhurst CIRAT
+Program” network.
+Interfering with or denying service to any user other than the employee's host (for
+example, denial of service attack).
+Using any program/script/command, or sending messages of any kind, with the intent to
+interfere with, or disable, a user's terminal session, via any means, locally or via the
+Internet/Intranet/Extranet.
+Providing information about, or lists of, “Mercyhurst CIRAT Program” employees to
+parties outside “Mercyhurst CIRAT Program”.
+Email and Communication Activities
+When using company resources to access and use the Internet, users must realize they represent
+the company. Whenever employees state an affiliation to the company, they must also clearly
+indicate that "the opinions expressed are my own and not necessarily those of the company".
+Questions may be addressed to the Information Technology Department
+ 4.3.3
+—— [JNIVERSITY ————— mercyhurst.edu
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+Sending unsolicited email messages, including the sending of "junk mail" or other
+advertising material to individuals who did not specifically request such material (email
+spam).
+Any form of harassment via email, telephone or paging, whether through language,
+frequency, or size of messages.
+Unauthorized use, or forging, of email header information.
+Solicitation of email for any other email address, other than that of the poster's account,
+with the intent to harass or to collect replies.
+Creating or forwarding "chain letters", "Ponzi" or other "pyramid" schemes of any type.
+Use of unsolicited email originating from within Mercyhurst University or the CIRAT
+Program’s networks of other Internet/Intranet/Extranet service providers on behalf of, or
+to advertise, any service hosted by VNET, Mercyhurst University or connected via
+“Mercyhurst CIRAT Program” network.
+Posting the same or similar non-business-related messages to large numbers of Usenet
+newsgroups (newsgroup spam).
+Blogging and Social Media
+Blogging, vlogging, and social media in general is no permitted in the CIRAT Program
+spaces.
+5. Policy Compliance
+5.1 Compliance Measurement
+The Mercyhurst Information Technology team will verify compliance to this policy through
+various methods, including but not limited to, business tool reports, internal and external audits,
+and feedback to the policy owner.
+5.2 Exceptions
+Any exception to the policy must be approved by the Infosec team in advance.
+5.3 Non-Compliance
+An employee found to have violated this policy may be subject to disciplinary action, up to and
+including termination of employment.
+6. Related Standards, Policies and Processes
+Data Classification Policy
+Ee | N lV k R S | Ty ——_—— mercyhurst.edu
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ e Data Protection Standard
+e Social Media Policy
+e Minimum Access Policy
+e Password Policy
+7. Definitions and Terms
+The following definition and terms can be found in the SANS Glossary located at:
+https://www.sans.org/security-resources/glossary-of-terms/
+¢ Blogging
+e Honeypot
+e Honeynet
+e Proprietary Information
+e Spam
+
+
+8. Revision History
+
+
+
+Date of Change | Responsible Summary of Change
+February 3 Randy Gindy Modified existing template free use template for
+2022 (Mercyhurst use in the CIRAT Program spaces.
+University
+Information
+Technology)
+Signature Date
+Randy Gindy
+Security Administrator & System Architect
+Mercyhurst University IT Department
+———— N lV k R S | T y ——_———_ mercyhurst.edu
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ Mercyhurst CIRAT Lab Security Policy
+1. Overview
+See Purpose.
+2. Purpose
+This policy establishes the information security requirements to help manage and safeguard lab
+resources and “Mercyhurst CIRAT Program” networks by minimizing the exposure of critical
+infrastructure and information assets to threats that may result from unprotected hosts and
+unauthorized access.
+3. Scope
+This policy applies to all employees, contractors, consultants, temporary and other workers at
+“Mercyhurst CIRAT Program” and its subsidiaries must adhere to this policy. This policy applies to
+“Mercyhurst CIRAT Program” managed labs.
+4. Policy
+4.1 General Requirements
+4.1.1 Lab owning organizations are responsible for assigning lab managers, a point of contact
+(POC), and a back-up POC for each lab. Lab owners must maintain up to date POC
+information with Information Technology and the CIRAT Program Manager.
+4.1.2 Lab managers are responsible for the security of their labs and the lab's impact on the
+corporate production network and any other networks. Lab managers are responsible for
+adherence to this policy and associated processes. Where policies and procedures are
+undefined lab managers must do their best to safeguard “Mercyhurst CIRAT Program”
+from security vulnerabilities.
+4.1.3 Lab managers are responsible for the lab's compliance with all “Mercyhurst CIRAT
+Program” security policies.
+4.1.4 The CIRAT Program manager is responsible for controlling lab access. Access to any
+given lab will only be granted by the CIRAT Program manager, to those individuals with
+an immediate business need within the lab, either short-term or as defined by their
+ongoing job function. This includes continually monitoring the access list to ensure that
+those who no longer require access to the lab have their access terminated.
+4.1.5 All user passwords must comply with “Mercyhurst University” Password Policy.
+4.1.6 Individual user accounts on any lab device must be deleted when the scope of the project
+ends or if other reason is given.
+4.1.7 PC-based lab computers must have “Mercyhurst CIRAT Program” 's standard, supported
+anti-virus software installed and scheduled to run at regular intervals. In addition, the
+anti-virus software and the virus pattern files must be kept up to date. Virus-infected
+computers must be removed from the network until they are verified as virus-free. Lab
+Admins/Lab Managers are responsible for creating procedures that ensure anti-virus
+software is run at regular intervals, and computers are verified as virus-free.
+501 East 38" Street
+Erie, PA 16546
+814-824-2131
+mercyhurst.edu ——— UNIVERSITY ————
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ 4.1.8 Any activities with the intention to create and/or distribute malicious programs into
+“Mercyhurst CIRAT Program” 's networks (e.g., viruses, worms, Trojan horses, e-mail
+bombs, etc.) are prohibited, in accordance with the Acceptable Use Policy.
+4.1.9 Immediate access to premises, equipment, system logs, and data must be granted to the
+CIRAT Program manager, approved members of Information Technology, or Mercyhurst
+University administration upon request.
+4.1.10 The Mercyhurst University CIRAT Program manager and Information Technology will
+not address non-compliance waiver requests.
+4.2 Internal Lab Security Requirements
+4.2.1 The Network Support Organization must maintain a firewall device between the
+corporate production network and all lab equipment.
+4.2.2 The CIRAT Program manager, Information Technology, or Mercyhurst University
+administration and/or reserve the right to interrupt lab connections that impact the
+corporate production network negatively or pose a security risk.
+4.2.3 The Network Support Organization must record all lab IP addresses, which are routed
+within “Mercyhurst CIRAT Program” networks, in Enterprise Address Management
+database along with current contact information for that lab.
+4.2.4 Any lab that wants to add an external connection must provide a diagram and
+documentation to InfoSec with business justification, the equipment, and the IP address
+space information. InfoSec will review for security concerns and must approve before
+such connections are implemented.
+4.2.5 All traffic between the corporate production and the lab network must go through a
+Network Support Organization maintained firewall. Lab network devices (including
+wireless) must not cross-connect the lab and production networks.
+4.2.6 Original firewall configurations and any changes thereto must be reviewed and approved
+by InfoSec. InfoSec may require security improvements as needed.
+4.2.7 Labs are prohibited from engaging in port scanning, network auto-discovery, traffic
+spamming/flooding, and other similar activities that negatively impact the corporate
+network and/or non-” Mercyhurst CIRAT Program” networks. These activities must be
+restricted within the lab.
+4.2.8 Traffic between production networks and tab networks, as well as traffic between
+separate lab networks, is permitted based on business needs and if the traffic does not
+negatively impact on other networks. Labs must not advertise network services that may
+compromise production network services or put lab confidential information at risk.
+4.2.9 Information Technology reserves the right to audit all lab-related data and administration
+processes at any time, including but not limited to, inbound and outbound packets,
+firewalls and network peripherals.
+<a |} N | V EF R S | yY —_—-—— mercyhurst.edu
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ 4.2.10 In labs where non-” Mercyhurst CIRAT Program” personnel have physical access (e.g.,
+training labs), direct connectivity to the corporate production network is not allowed.
+Additionally, no “Mercyhurst CIRAT Program” confidential information can reside on
+any computer equipment in these labs. Connectivity for authorized personnel from these
+labs can be allowed to the corporate production network only if authenticated against the
+Corporate Authentication servers, temporary access lists (lock and key), SSH, client
+VPNs, or similar technology approved by InfoSec.
+4.2.11 Lab networks with external connections are prohibited from connecting to the corporate
+production network or other internal networks through a direct connection, wireless
+connection, or other computing equipment.
+
+
+Revision History
+
+
+
+Date of Change | Responsible Summary of Change
+Ferbuary 3 2022 | Randy Gindy Modified free existing Lab security policy for use
+(Mercyhurst in CIRAT Program spaces.
+University
+Information
+Technology)
+Signature Date
+Randy Gindy
+Security Administrator & System Architect
+Mercyhurst University IT Department
+501 East 38" Street
+Erie, PA 16546
+814-824-2131
+mercyhurst.edu ———— UNIVERSITY ————_-
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ Mercyhurst University CIRAT Program Server Security Policy
+1. Overview
+Unsecured and vulnerable servers continue to be a major entry point for malicious threat actors.
+Consistent Server installation policies, ownership and configuration management are all about doing the
+basics well.
+2. Purpose
+The purpose of this policy is to establish standards for the base configuration of internal server
+equipment that is owned and/or operated by Mercyhurst University CIRAT Program.
+Effective implementation of this policy will minimize unauthorized access to Mercyhurst
+University CIRAT Program proprietary information and technology.
+3. Scope
+All employees, contractors, consultants, temporary and other workers at Mercyhurst University CIRAT
+Program, Mercyhurst Information Technology, and hired contractors must adhere to this policy. This
+policy applies to server equipment that is owned, operated, or leased by Mercyhurst University CIRAT
+Program or registered under a Mercyhurst University CIRAT Program -owned internal network domain.
+4. Policy
+4.1 General Requirements
+4.1.1 All internal servers deployed at Mercyhurst University CIRAT Program must be
+owned by an operational group that is responsible for system administration. Approved
+server configuration guides must be established and maintained by each operational
+group, based on business needs and approved by InfoSec. Operational groups should
+monitor configuration compliance and implement an exception policy tailored to their
+environment. Each operational group must establish a process for changing the
+configuration guides, which includes review and approval by InfoSec. The following
+items must be met:
+e Servers must be registered within the corporate enterprise management system. At a
+minimum, the following information is required to positively identify the point of
+contact:
+o Server contact(s) and location, and a backup contact
+o Hardware and Operating System/Version
+o Main functions and applications, if applicable
+e Information in the corporate enterprise management system must be kept up-to-date.
+e Configuration changes for production servers must follow the appropriate change
+management procedures
+4.1.2 For security, compliance, and maintenance purposes, authorized personnel may monitor
+and audit equipment, systems, processes, and network traffic per the Audit Policy.
+501 East 38% Street
+Erie, PA 16546
+814-824-2131
+mercyhurst.edu ———— IJNIVERSITY ————
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ 4.2 Configuration Requirements
+4.2.1 Operating System configuration should be in accordance with approved Information
+Technology guidelines.
+4.2.2 Services and applications that will not be used must be disabled where practical.
+4.2.3 Access to services should be logged and/or protected through access-contro! methods
+such as a web application firewall, if possible.
+4.2.4 The most recent security patches must be installed on the system as soon as practical, the
+only exception being when immediate application would interfere with business
+requirements.
+4.2.5 Trust relationships between systems are a security risk, and their use should be avoided.
+Do not use a trust relationship when some other method of communication is sufficient.
+4.2.6 Always use standard security principles of least required access to perform a function.
+Do not use root when a non-privileged account will do.
+4.2.7 Ifamethodology for secure channel connection is available (1.e., technically feasible),
+privileged access must be performed over secure channels, (e.g., encrypted network
+connections using SSH or IPSec).
+4.2.8 Servers should be physically located in an access-controlled environment.
+4.2.9 Servers are specifically prohibited from operating from uncontrolled cubicle areas.
+4.3 Monitoring
+4.3.1 All security-related events on critical or sensitive systems must be logged and audit trails
+saved as follows:
+e All security related logs will be kept online for a minimum of 1 month.
+e Monthly backups will be retained for a minimum of 2 years.
+4.3.2 Security-related events will be reported to the CIRAT Program Manager and Information
+Technology, who will review logs and reports. Corrective measures will be prescribed as
+needed. Security-related events include, but are not limited to:
+e Port-scan attacks
+e Evidence of unauthorized access to privileged accounts
+e Anomalous occurrences that are not related to specific applications on the host.
+5. Policy Compliance
+5.1 Compliance Measurement
+The Infosec team will verify compliance to this policy through various methods, including but
+not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external
+audits, and feedback to the policy owner.
+5.2 Exceptions
+Any exception to the policy must be approved by the Infosec team in advance.
+———— UNIVERSITY ————— mercyhurst.edu
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ 5.3 Non-Compliance
+An employee found to have violated this policy may be subject to disciplinary action, up to and
+including termination of employment.
+6 Related Standards, Policies and Processes
+e Audit Policy
+
+
+7 Revision History
+
+
+
+Date of Change Responsible Summary of Change
+February 3 2022 | Randy Gindy Modified a free existing policy for use in the
+(Mercyhurst CIRAT Program spaces.
+University
+Information
+Technology)
+Signature Date
+Randy Gindy
+Security Administrator & System Architect
+Mercyhurst University IT Department
+———— UNIVE RST Y —————- mercyhurst.edu
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ Mercyhurst CIRAT Lab Data Transfer Policy
+1. Overview
+See Purpose,
+2. Purpose
+The purpose of this policy is to ensure the data transmitted/transferred between University IT Resources
+and a third party is secure.
+3. Scope
+This policy applies to all employees, contractors, consultants, temporary and other workers at
+“Mercyhurst CIRAT Program” and its subsidiaries must adhere to this policy. This policy applies to
+“Mercyhurst CIRAT Programm” managed labs.
+4. Policy
+Transmission of data to or from Mercyhurst University to a third party must be reviewed and approved
+by Information Technology and CIRAT Program Management. The requestor must submit a service
+request to initiate a third-party data transfer request to. Any third-party vendor that stores the
+University’s data must have a signed contract with the University. A secure transmission method must
+be used which will be evaluated and decided on a case-by-case basis.
+Data stored for third party's will be stored on servers containing only that projects data. Servers and
+data are encrypted. Data will be stored on separate SAN storage and siloed from one another.
+Data stored in the CIRAT Lab spaces is separate from the rest of the University network physically with
+individual infrastructure up to the University main firewall. Servers in this space are stored in a locking
+cabinet in a separate locked closet. Any infrastructure feeding this room fiber, copper, etc. is also locked
+in closets only accessible to IT.
+
+
+Revision History
+Date of Change Responsible Summary of Change
+Ferbuary 3 2022 | Randy Gindy Modified free existing Lab security policy for use
+(Mercyhurst in CIRAT Program spaces.
+University
+Information
+
+Technology)
+501 East 38" Street
+Erie, PA 16546
+814-824-2131
+mercyhurst.edu ——— UNIVERSITY ————
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+Signature BS Date _ 2/3/2022
+Security Administrator & System Architect
+Mercyhurst University {T Department
+
+501 East 38" Street
+Erie, PA 16546
+814-824-2131
+mercyhurst.edu ———— UNIVERSITY ————
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ Mercyhurst University CIRAT Program Password Protection Policy
+1. Overview
+Passwords are an important aspect of computer security. A poorly chosen password may result
+in unauthorized access and/or exploitation of our resources, All staff, including contractors and
+vendors with access to “Mercyhurst University CIRAT Program” systems, are responsible for
+taking the appropriate steps, as outlined below, to select and secure their passwords.
+2. Purpose
+The purpose of this policy is to establish a standard for creation of strong passwords and the
+protection of those passwords.
+3. Scope
+The scope of this policy includes all personnel who have or are responsible for an account (or
+any form of access that supports or requires a password) on any system that resides at any
+facility, has access to the “Mercyhurst University CIRAT Program” network, or stores any
+non-public “Mercyhurst University CIRAT Program” information.
+4. Policy
+4.] Password Creation
+4.1.1 All user-level and system-level passwords must conform to the Mercyhurst University
+Password Policy
+4.1.2 Users must use a separate, unique password for each of their work-related accounts.
+Users may not use any work-related passwords for their own, personal accounts.
+4.1.3 User accounts that have system-level privileges granted through group memberships or
+programs such as sudo must have a unique password from all other accounts held by that
+user to access system-level privileges. In addition, it is highly recommended that some
+form of multi-factor authentication is used for any privileged accounts
+4.2 Password Change
+4.2.1 Passwords are currently set to be changed every 90 days as enforced by the Mercyhurst
+University Password Policy
+4.2.2 Password cracking or guessing may be performed on a periodic or random basis by the
+Infosec Team or its delegates. If a password is guessed or cracked during one of these
+scans, the user wili be required to change it to be in compliance with the Password
+Construction Guidelines.
+4.3 Password Protection
+4.3.1 Passwords must not be shared with anyone, including supervisors and coworkers. All
+passwords are to be treated as sensitive, Confidential <Company Name> information.
+ 4.3.2
+4.3.3
+4.3.4
+4.3.5
+4.4 4.4.1
+501 East 38 Street
+Erie, PA 16546
+814-824-2131
+mercyhurst.edu ———— UNIVERSITY ————
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+Corporate Information Security recognizes that legacy applications do not support proxy
+systems in place. Please refer to the technical reference for additional details.
+Passwords must not be inserted into email messages, Alliance cases or other forms of
+electronic communication, nor revealed over the phone to anyone.
+Passwords may be stored only in “password managers” authorized by the organization.
+Do not use the “Remember Password" feature of applications (for example, web
+browsers).
+Any user suspecting that his/her password may have been compromised must report the
+incident and change all passwords.
+Multi-Factor Authentication
+Multi-factor authentication is enforced for every account at Mercyhurst University.
+5. Policy Compliance
+5.1 Compliance Measurement
+The Infosec team will verify compliance to this policy through various methods, including but
+not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external
+audits, and feedback to the policy owner.
+5.2 Exceptions
+Any exception to the policy must be approved by the Infosec Team in advance.
+5.3 Non-Compliance
+An employee found to have violated this policy may be subject to disciplinary action, up to and
+including termination of employment.
+——— I N IV E R § |] Y _————_ mercyhurst.edu
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ 
+
+
+
+6
+7 Revision History
+Date of Change Responsible Summary of Change
+February 3 2022 | Randy Gindy Modified free existing password protection policy
+(Mercyhurst for use in CIRAT Program spaces.
+University
+Information
+Technology)
+Signature Date
+Randy Gindy
+Security Administrator & System Architect
+Mercyhurst University IT Department
+501 East 38" Street
+Erie, PA 16546
+814-824-2131
+mercyhurst.edu ———— UNIVERSITY ————-
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ Wireless Communication Policy
+1. Overview
+With the mass explosion of Smart Phones and Tablets, pervasive wireless connectivity is almost a given
+at any organization. Insecure wireless configuration can provide an easy open door for malicious threat
+actors.
+2. Purpose
+The purpose of this policy is to secure and protect the information assets owned by “Mercyhurst
+CIRAT Program”. “Mercyhurst CIRAT Program” provides computer devices, networks, and
+other electronic information systems to meet missions, goals, and initiatives. “Mercyhurst
+CIRAT Program” grants access to these resources as a privilege and must manage them
+responsibly to maintain the confidentiality, integrity, and availability of all information assets.
+This policy specifies the conditions that wireless infrastructure devices must satisfy to connect to
+“Mercyhurst CIRAT Program” network. Only those wireless infrastructure devices that meet
+the standards specified in this policy or are granted an exception by the Information Security
+Department are approved for connectivity to a “Mercyhurst CIRAT Program” network.
+3. Scope
+All employees, contractors, consultants, temporary and other workers at “Mercyhurst CIRAT
+Program”, including all personnel affiliated with third parties that maintain a wireless
+infrastructure device on behalf of “Mereyhurst CIRAT Program” must adhere to this policy.
+This policy applies to all wireless infrastructure devices that connect to a “Mercyhurst CIRAT
+Program” network or reside on a “Mercyhurst CIRAT Program” site that provide wireless
+connectivity to endpoint devices including, but not limited to, laptops, desktops, cellular phones,
+and tablets. This includes any form of wireless communication device capable of transmitting
+packet data.
+4. Policy
+4.1 General Policy
+The “Mercyhurst CIRAT Program” does not maintain or allow employees, contractors,
+consultants, temporary and other workers to use or communicate data and information over
+wireless technologies such as wireless, Bluetooth, cellular data, etc.
+501 East 38*" Street
+Erie, PA 16546
+814-824-2131
+mercyhurst.edu ———— UNIVERSITY ————
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ 
+
+Revision History
+
+
+
+Date of Change Responsible Summary of Change
+February 3 2022 | Randy Gindy Modified existing free wireless policy for use in
+(Mercyhurst CIRAT Program Spaces
+University
+Information
+Technology)
+Signature Date
+Randy Gindy
+Security Administrator & System Architect
+Mercyhurst University IT Department
+501 East 38" Street
+Ge a Erie, PA 16546
+\ f 814-824-2131
+Uy) mercyhurst.edu ——— UNIVERSITY ———Y
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+Mercyhurst University CIRAT Program Email Policy
+1 Overview
+Electronic email is pervasively used in almost all industry verticals and is often the primary
+communication and awareness method within an organization. At the same time, misuse of email can
+post many legal, privacy and security risks, thus it’s important for users to understand the appropriate
+use of electronic communications.
+2 Purpose
+The purpose of this email policy is to ensure the proper use of “Mercyhurst CIRAT Program” email
+system and make users aware of what “Mercyhurst CIRAT Program” deems as acceptable and
+unacceptable use of its email system. This policy outlines the minimum requirements for use of email
+within “Mercyhurst CIRAT Program” Network.
+3 Scope
+This policy covers appropriate use of any email sent from a “Mercyhurst CIRAT Program”
+email address and applies to all employees, vendors, and agents operating on behalf of
+“Mercyhurst CIRAT Program” .
+4 Policy
+4.1 Ali use of email must be consistent with “Mercyhurst CERAT Program” policies and
+procedures of ethical conduct, safety, compliance with applicable laws and proper business
+practices.
+4.2 “Mercyhurst CIRAT Program” email account should be used primarily for “Mercyhurst
+CIRAT Program” business-related purposes; personal communication is permitted on a
+limited basis, but non-” Mercyhurst CIRAT Program” related commercial uses are
+prohibited.
+4.3 All “Mercyhurst CIRAT Program” data contained within an email message, or an
+attachment must be secured according to the Data Protection Standard.
+4.4 Email should be retained only if it qualifies as a “Mercyhurst CIRAT Program” business record.
+Email is a “Mercyhurst CIRAT Program” business record if there exists a legitimate and ongoing
+business reason to preserve the information contained in the email.
+4.5 Email that is identified as a “Mercyhurst CIRAT Program” business record shall be retained
+according to “Mercyhurst CIRAT Program” Record Retention Schedule.
+——_— JJ N [V k R S | ———— mercyhurst.edu
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ 4.6 The “Mercyhurst CIRAT Program” email system shall not to be used for the creation or
+distribution of any disruptive or offensive messages, including offensive comments about
+trace, gender, hair color, disabilities, age, sexual orientation, pornography, religious beliefs
+and practice, political beliefs, or national origin. Employees who receive any emails with
+this content from any “Mercyhurst CIRAT Program” employee should report the matter
+to their supervisor immediately.
+4.7 Users are prohibited from automatically forwarding “Mercyhurst CIRAT Program” email
+to a third-party email system (noted in 4.8 below). Individual messages which are
+forwarded by the user must not contain “Mercyhurst CIRAT Program” confidential or
+above information.
+4.8 Users are prohibited from using third-party email systems and storage servers such as
+Google, Yahoo, and MSN Hotmail etc. to conduct “Mercyhurst CIRAT Program”
+business, to create or memorialize any binding transactions, or to store or retain email on
+behalf of “Mercyhurst CIRAT Program” Such communications and transactions should
+be conducted through proper channels using “Mercyhurst CIRAT Program” -approved
+documentation.
+4.9 Using a reasonable amount of “Mercyhurst CIRAT Program” resources for personal
+emails is acceptable, but non-work-related email shall be saved in a separate folder from
+work related email. Sending chain letters or joke emails from a “Mereyhurst CIRAT
+Program” email account is prohibited.
+4.10 “Mercyhurst CIRAT Program” employees shall have no expectation of privacy in
+anything they store, send or receive on the company’s email system.
+4.11 “Mercyhurst CIRAT Program” may monitor messages without prior notice.
+“Mercyhurst CIRAT Program?” is not obliged to monitor email messages.
+5 Policy Compliance
+5.1 Compliance Measurement
+The Infosec team will verify compliance to this policy through various methods, including but
+not limited to, periodic walkthroughs, video monitoring, business tool reports, internal and
+external audits, and feedback to the policy owner.
+5.2 Exceptions
+Any exception to the policy must be approved by the CIRAT Program Manager and Mercyhurst
+University Information Technology team in advance.
+5.3 Non-Compliance
+An employee found to have violated this policy may be subject to disciplinary action, up to and
+including termination of employment.
+——— J N lV f R SIT ¥ ——__-— mercyhurst.edu
+RIDGE COLLEGE OF INTELLIGENCE STUDIES AND APPLIED SCIENCES
+ 
+
+Revision History
+
+
+
+Date of Change | Responsible Summary of Change
+February 3 2022 | Randy Gindy Modified free existing email policy for use in
+(Mercyhurst CIRAT Program Spaces.
+University
+Information
+Technology)
+Signature Date
+Randy Gindy
+Security Administrator & System Architect
+Mercyhurst University IT Department
